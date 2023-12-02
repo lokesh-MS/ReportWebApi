@@ -1,0 +1,15 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">SHIPMENT_NO</th><th scope="col">SENDER_ORGN_CODE</th><th scope="col">RECEIVER_ORGN_CODE</th><th scope="col">SENDER_DATE</th><th scope="col">SENDER_TRUCK_NO</th><th scope="col">GRADE</th><th scope="col">BALES</th><th scope="col">QUANTITY</th><th scope="col">RATE</th><th scope="col">DISPATCH_QUANTITY</th><th scope="col">ITEM_CODE_GROUP</th>
+		</tr><tr>
+			<td>2023/A57/P36/00001</td><td>A57</td><td>P36</td><td>17-11-2023 00:00:00</td><td>AP07TU0799</td><td>2311C1F-T</td><td>4</td><td>287.6</td><td>115</td><td>287.6</td><td>C1F</td>
+		</tr><tr>
+			<td>2023/A57/P36/00001</td><td>A57</td><td>P36</td><td>17-11-2023 00:00:00</td><td>AP07TU0799</td><td>2311C2F-T</td><td>1</td><td>68</td><td>115</td><td>68</td><td>C2F</td>
+		</tr><tr>
+			<td>2023/A57/P36/00001</td><td>A57</td><td>P36</td><td>17-11-2023 00:00:00</td><td>AP07TU0799</td><td>2311X1F-T</td><td>7</td><td>525.8</td><td>115</td><td>525.8</td><td>X1F</td>
+		</tr><tr>
+			<td>2023/A57/P36/00001</td><td>A57</td><td>P36</td><td>17-11-2023 00:00:00</td><td>AP07TU0799</td><td>2311X2F-T</td><td>3</td><td>231.5</td><td>115</td><td>231.5</td><td>X2F</td>
+		</tr>
+	</table>
+</div>

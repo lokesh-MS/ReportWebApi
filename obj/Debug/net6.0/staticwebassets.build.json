@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t4t7j4WQk3US7G2IFSYxqgMSJq4PVHL3kj1GnHDxUN4=",
+  "Source": "ReportWebAPI",
+  "BasePath": "_content/ReportWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
